@@ -96,5 +96,5 @@ The focus is on clarity, business relevance, and effective communication of insi
 ---
 
 ## Author
-Líder supremo  
-Economics graduate with a focus on data analysis, visualization, and business intelligence.
+Economics graduate with a focus on data analysis, data visualization, and business intelligence.
+
